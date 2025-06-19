@@ -1,1 +1,3 @@
-# intrest develop of cuda
+# cuda
+
+## intresting develop of using ai
